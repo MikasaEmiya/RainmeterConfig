@@ -1,3 +1,2 @@
-# Rainmeter_Config
-雨滴桌面C盘配置适用于4K显示器
-复制到路径：C:\Users\Administrator\AppData\Roaming，替换默认配置即可
+# RainmeterConfig
+雨滴的主题配置文件夹,复制到：C:\Users\用户名\AppData\Roaming,替换默认即可
